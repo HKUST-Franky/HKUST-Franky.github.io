@@ -13,9 +13,9 @@ title                    : "WU FUNG, Xian Hong / Franky Wu"
 title_separator          : "-"
 name                     : &name "Franky Wu"
 description              : &description "An unknown who is seeking the AGI Pathway."
-url                      : https://HKUST-Franky.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : "https://HKUST-Franky.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "https://github.com/HKUST-Franky?tab=repositories"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -27,7 +27,7 @@ author:
   pronouns         : "He/Him"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Hong Kong SAR"
-  employer         : "Hong Kong University of Science and Technology"
+  employer         : "HKUST"
   uri              : # URL
   email            : "xhwufung@connect.ust.hk" 
 
